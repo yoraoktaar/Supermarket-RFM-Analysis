@@ -1,5 +1,9 @@
 # Supermarket-RFM-Analysis
 
+By: Yora Okta Aviani Rahardjo 
+
+## Business Understanding
+
 <span style="font-size:20px; font-family: monospace;">`1. Background`</span>
 
 In facing increasingly intense competition in the supermarket retail industry, companies need to deeply understand customer segmentation. The RFM (Recency, Frequency, Monetary) method is an appropriate approach for analyzing the time of the last purchase, transaction frequency, and the total purchase value of customers. By analyzing customer data from 2012 to 2014 and comparing the effectiveness between customer segments and their responses to marketing campaigns, companies can develop more accurate promotional strategies to enhance loyalty and increase sales.
