@@ -114,7 +114,7 @@ Although the non-responding group is larger, they actually generated a higher to
 
 Recency (Last Campaign) vs Response:
 
-Customers who responded to the campaign tended to be more recent (interacted more recently) — as indicated by their lower recency values. On the other hand, those who did not respond to the campaign had not made transactions for a longer period (higher recency values).
+Customers who respond to a campaign tend to be more recent — indicated by their lower recency scores. Conversely, customers who do not respond to a campaign are those who have not made a transaction in a longer time (have higher recency scores). Campaigns are effective when targeted to customers who are still active or have recently engaged.
 
 <span style="font-size:20px; font-family: monospace;">`Recomendation`</span>
 
@@ -167,6 +167,7 @@ Customers who responded to the campaign tended to be more recent (interacted mor
     - Remove irrelevant data
       
 7. Potential Loyal Customers
+   
     - Identify customers showing signs of increasing engagement
     
     - Provide targeted incentives to encourage more frequent purchases
