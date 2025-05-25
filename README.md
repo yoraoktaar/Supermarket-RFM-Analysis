@@ -113,13 +113,7 @@ Although the non-responding group is larger, they actually generated a higher to
 
 Recency (Last Campaign) vs Response:
 
-1. Responding Customers Are Longer Inactive
-The campaign might be more appealing to customers who have not interacted for a long time.
-
-2. New or Active Customers Are Less Interested
-Customers with shorter recency (recently active) tended to respond less. This could mean the campaign wasn’t attractive enough for active customers, or that the campaign was targeted at dormant customers.
-
-Conclusion: The campaign successfully attracted dormant customers to respond again.
+Customers who responded to the campaign tended to be more recent (interacted more recently) — as indicated by their lower recency values. On the other hand, those who did not respond to the campaign had not made transactions for a longer period (higher recency values).
 
 <span style="font-size:20px; font-family: monospace;">`Recomendation`</span>
 
