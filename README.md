@@ -105,11 +105,12 @@ Customer Segments (RFM):
 4. Hibernating: Infrequent and haven’t purchased for a long time. Can be targeted with reactivation campaigns.
 5. New Customers: Recently made purchases but not yet regular. Need education and encouragement for repeat buying.
 6. Lost Customers: Have been inactive for a very long time. Low potential, can be given low priority.
+7. Potential Loyal Customers: Customers showing signs of increased engagement and purchase frequency. With proper nurturing, they can become loyal buyers.
 
 Campaign Effectiveness:
 
 Out of the total customers, 568 people (27.65%) responded to the campaign (responded to at least one campaign), while 1,486 people (72.35%) did not respond at all.
-Although the non-responding group is larger, they actually generated a higher total expenditure amounting to 681,283, compared to the group that received the campaign, which only generated 564,358,111.
+Although the non-responding group is larger, they actually generated a higher total expenditure amounting to 681,283, compared to the group that received the campaign, which only generated 564,358.
 
 Recency (Last Campaign) vs Response:
 
@@ -164,3 +165,15 @@ Customers who responded to the campaign tended to be more recent (interacted mor
     - Focus on customers with potential to return
     
     - Remove irrelevant data
+      
+7. Potential Loyal Customers
+    - Identify customers showing signs of increasing engagement
+    
+    - Provide targeted incentives to encourage more frequent purchases
+
+    - Offer tailored communication based on purchase behavior and preferences
+
+
+
+
+
